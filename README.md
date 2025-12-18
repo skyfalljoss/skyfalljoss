@@ -37,7 +37,7 @@ Ensure you upload your header image (e.g., 'readme-header.png') to this reposito
 | **Languages** | <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code> C, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code> C++, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></code> Python, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code> JavaScript, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code> TypeScript, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></code> HTML5, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></code> CSS3 |
 | **Frontend** | <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></code> React, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /></code> Next.js, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" /></code> TailwindCSS, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /></code> Bootstrap |
 | **Backend** | <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></code> Node.js, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" /></code> Django, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" /></code> Flask |
-| **AI / ML** | <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" /></code> TensorFlow, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original-wordmark.svg" /></code> Keras, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" /></code> PyTorch, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spacy/spacy-original-wordmark.svg" /></code> spaCy |
+| **AI / ML** | <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" /></code> TensorFlow, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original-wordmark.svg" /></code> Keras, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" /></code> PyTorch, <code><img height="20" src="https://spacy.io/_next/static/media/social_default.96b04585.jpg" /></code> spaCy |
 | **Databases** | <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /></code> PostgreSQL, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code> MySQL, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" /></code> SQLite |
 | **DevOps & Tools** | <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></code> Docker, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /></code> Git, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" /></code> Postman, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /></code> Jira |
 
@@ -58,14 +58,6 @@ Ensure you upload your header image (e.g., 'readme-header.png') to this reposito
 
 </div>
 
----
-
-### 🏆 GitHub Trophies (Optional Enhancement)
-
-<div align="center">
-  <!-- Add a row for GitHub Trophies if desired -->
-  <img src="https://github-profile-trophy.vercel.app/?username=skyfalljoss&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 ---
 
