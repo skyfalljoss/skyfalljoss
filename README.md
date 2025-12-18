@@ -1,19 +1,89 @@
-<h1 align="left">Hi 👋, I'm Phong Nguyen</h1>
-<p align="left">A software engineer enthusiast based in Florida. As a Computer Science student at the University of South Florida, I channel my passion for coding into crafting next generation of intelligent web applications. My toolkit is built on modern technologies like React, JS, Python, Flask and django... which I use to write clean, maintainable code focused on delivering exceptional user experiences. My journey from Vietnam to Florida has given me a unique, cross-cultural perspective that I apply to solving problems and designing intuitive interfaces that resonate with a global audience. I am eager to leverage my technical skills and dedicated work ethic to build the next generation of impactful.</p>
+<!-- 
+README.md for skyfalljoss (Phong Nguyen)
+Enhanced version with better styling and structure.
+Ensure you upload your header image (e.g., 'readme-header.png') to this repository first.
+ -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/phong-nguyen-3467a5207/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skyfalljoss@gmail.com) 
+<div align="center">
+  <!-- Replace 'readme-header.png' with the filename of your uploaded image -->
+  <img src="readme-header.png" alt="Phong Nguyen Header" width="100%" />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=skyfalljoss&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=skyfalljoss&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=skyfalljoss&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi there, I'm Phong Nguyen 👋</h1>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=skyfalljoss&theme=default&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <strong>Software Engineer & Student</strong><br>
+  Building scalable web applications and exploring the depths of Machine Learning.
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<hr>
 
+### 🚀 About Me
+
+- 🔭 **Currently Focused On:** Developing robust full-stack applications using Next.js and enhancing AI models.
+- 🌱 **Deepening My Skills In:** Backend architecture, machine learning integration, and creating intuitive user experiences.
+- 💼 **Looking For:** Exciting **internship opportunities** where I can contribute and grow.
+- 🤝 **Open To:** Collaborating on interesting Open Source projects.
+- ⚡ **Fun Fact:** I enjoy optimizing code performance and experimenting with new frameworks!
+
+---
+
+### 💻 My Tech Stack
+
+<div align="center">
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code> C, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code> C++, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></code> Python, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code> JavaScript, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code> TypeScript, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></code> HTML5, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></code> CSS3 |
+| **Frontend** | <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></code> React, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /></code> Next.js, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" /></code> TailwindCSS, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /></code> Bootstrap |
+| **Backend** | <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></code> Node.js, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" /></code> Django, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" /></code> Flask |
+| **AI / ML** | <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" /></code> TensorFlow, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original-wordmark.svg" /></code> Keras, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" /></code> PyTorch, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spacy/spacy-original-wordmark.svg" /></code> spaCy |
+| **Databases** | <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /></code> PostgreSQL, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code> MySQL, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" /></code> SQLite |
+| **DevOps & Tools** | <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></code> Docker, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /></code> Git, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" /></code> Postman, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /></code> Jira |
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<!-- Ensure the theme parameter is correctly spelled and supported -->
+<div align="center">
+
+![Phong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skyfalljoss&show_icons=true&theme=tokyonight)
+
+<br/>
+
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=skyfalljoss&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies (Optional Enhancement)
+
+<div align="center">
+  <!-- Add a row for GitHub Trophies if desired -->
+  <img src="https://github-profile-trophy.vercel.app/?username=skyfalljoss&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 📫 Get In Touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/phong-nguyen-3467a5207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://skyfalljoss.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge&logo=Google-Chrome&logoColor=white"></a>
+  <a href="mailto:nvphong5464@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by! Feel free to explore my repositories.</i>
+</p>
+
+<!-- Optional: Visitor Counter (Uncomment if desired) -->
+<!-- <div align="center">
+  <img src="https://profile-counter.glitch.me/{skyfalljoss}/count.svg" />
+</div> -->
