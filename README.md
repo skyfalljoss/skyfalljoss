@@ -50,11 +50,11 @@ Ensure you upload your header image (e.g., 'readme-header.png') to this reposito
 <!-- Ensure the theme parameter is correctly spelled and supported -->
 <div align="center">
 
-![Phong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skyfalljoss&show_icons=true&theme=tokyonight)
+![Phong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skyfalljoss&show_icons=true&theme=default)
 
 <br/>
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=skyfalljoss&layout=compact&theme=tokyonight)
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=skyfalljoss&layout=compact&theme=default)
 
 </div>
 
