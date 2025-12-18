@@ -1,3 +1,5 @@
+<h1 align="left">Hi 👋, I'm Phong Nguyen</h1>
+<p align="left">A software engineer enthusiast based in Florida. As a Computer Science student at the University of South Florida, I channel my passion for coding into crafting next generation of intelligent web applications. My toolkit is built on modern technologies like React, JS, Python, Flask and django... which I use to write clean, maintainable code focused on delivering exceptional user experiences. My journey from Vietnam to Florida has given me a unique, cross-cultural perspective that I apply to solving problems and designing intuitive interfaces that resonate with a global audience. I am eager to leverage my technical skills and dedicated work ethic to build the next generation of impactful.</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/phong-nguyen-3467a5207/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skyfalljoss@gmail.com) 
@@ -13,5 +15,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=skyfalljoss&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
