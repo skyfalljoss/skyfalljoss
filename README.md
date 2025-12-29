@@ -26,6 +26,10 @@ Ensure you upload your header image (e.g., 'readme-header.png') to this reposito
 - 🤝 **Open To:** Collaborating on interesting Open Source projects.
 - ⚡ **Fun Fact:** I enjoy optimizing code performance and experimenting with new frameworks!
 
+### Projects
+- CRM websites: https://crm-vibecode-git-main-phong-nguyens-projects-0775ccaa.vercel.app/
+- Clone lovable: https://loveable-two.vercel.app/
+- Portfolio: https://skyfalljoss.github.io/portfolio/ 
 ---
 
 ### 💻 My Tech Stack
@@ -42,22 +46,6 @@ Ensure you upload your header image (e.g., 'readme-header.png') to this reposito
 | **DevOps & Tools** | <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></code> Docker, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /></code> Git, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" /></code> Postman, <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /></code> Jira |
 
 </div>
-
----
-
-### 📊 GitHub Analytics
-
-<!-- Ensure the theme parameter is correctly spelled and supported -->
-<div align="center">
-
-![Phong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skyfalljoss&show_icons=true&theme=default)
-
-<br/>
-
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=skyfalljoss&layout=compact&theme=default)
-
-</div>
-
 
 ---
 
