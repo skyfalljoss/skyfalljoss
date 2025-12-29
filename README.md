@@ -27,7 +27,7 @@ Ensure you upload your header image (e.g., 'readme-header.png') to this reposito
 - ⚡ **Fun Fact:** I enjoy optimizing code performance and experimenting with new frameworks!
 
 ### Projects
-- CRM websites: https://crm-vibecode-git-main-phong-nguyens-projects-0775ccaa.vercel.app/
+- CRM websites: https://crm-vibecode.vercel.app/
 - Clone lovable: https://loveable-two.vercel.app/
 - Portfolio: https://skyfalljoss.github.io/portfolio/ 
 ---
