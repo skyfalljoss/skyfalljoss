@@ -6,7 +6,7 @@ Ensure you upload your header image (e.g., 'readme-header.png') to this reposito
 
 <div align="center">
   <!-- Replace 'readme-header.png' with the filename of your uploaded image -->
-  <img src="header.jpg" alt="Phong Nguyen Header" width="100%" />
+  <img src="HEADER1.jpg" alt="Phong Nguyen Header" width="100%" />
 </div>
 
 <h1 align="center">Hi there, I'm Phong Nguyen 👋</h1>
