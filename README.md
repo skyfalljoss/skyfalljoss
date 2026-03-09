@@ -26,7 +26,8 @@ Ensure you upload your header image (e.g., 'readme-header.png') to this reposito
 - 🤝 **Open To:** Collaborating on interesting Open Source projects.
 - ⚡ **Fun Fact:** I enjoy optimizing code performance and experimenting with new frameworks!
 
-### Projects
+### Projects:
+- Video Generator: https://video-generator-blue.vercel.app/
 - CRM websites: https://crm-vibecode.vercel.app/
 - Clone lovable: https://loveable-two.vercel.app/
 - Portfolio: https://skyfalljoss.github.io/portfolio/ 
