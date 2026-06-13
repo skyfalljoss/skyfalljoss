@@ -23,10 +23,11 @@ Ensure you upload your header image (e.g., 'readme-header.png') to this reposito
 - 🔭 **Currently Focused On:** Developing robust full-stack applications using Next.js and enhancing AI models.
 - 🌱 **Deepening My Skills In:** Backend architecture, machine learning integration, and creating intuitive user experiences.
 - 💼 **Looking For:** Exciting **internship opportunities** where I can contribute and grow.
-- 🤝 **Open To:** Collaborating on interesting Open Source projects.
+- 🤝 **Open To:** Collaborating on interesting open-source projects.
 - ⚡ **Fun Fact:** I enjoy optimizing code performance and experimenting with new frameworks!
 
 ### Projects:
+- Campus Navigator: https://campus-navigation-assistant.onrender.com/
 - Video Generator: https://video-generator-blue.vercel.app/
 - CRM websites: https://crm-vibecode.vercel.app/
 - Clone lovable: https://loveable-two.vercel.app/
